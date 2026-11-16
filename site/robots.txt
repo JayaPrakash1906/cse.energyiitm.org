@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://energy.iitm.ac.in/sitemap.xml
